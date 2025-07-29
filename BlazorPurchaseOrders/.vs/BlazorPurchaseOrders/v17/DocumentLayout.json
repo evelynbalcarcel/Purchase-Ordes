@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\data\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:data\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\pages\\taxpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:pages\\taxpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\data\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:data\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\data\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:data\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\pages\\previeworderpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:pages\\previeworderpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\pages\\purchaseorderpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:pages\\purchaseorderpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\shared\\confirmpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:shared\\confirmpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\shared\\warningpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:shared\\warningpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\pages\\supplierpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:pages\\supplierpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\pages\\productpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:pages\\productpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\data\\sqlconnectionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:data\\sqlconnectionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\data\\polineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:data\\polineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|c:\\users\\evelyn_balcarcel\\desktop\\blazorpurchaseorders\\data\\poheaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD479AE-09E0-466E-8129-D310242796E3}|BlazorPurchaseOrders.csproj|solutionrelative:data\\poheaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaxService.cs",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Data\\TaxService.cs",
+              "RelativeDocumentMoniker": "Data\\TaxService.cs",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Data\\TaxService.cs",
+              "RelativeToolTip": "Data\\TaxService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T23:29:34.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tax.cs",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Data\\Tax.cs",
+              "RelativeDocumentMoniker": "Data\\Tax.cs",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Data\\Tax.cs",
+              "RelativeToolTip": "Data\\Tax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T23:25:51.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAKYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T21:45:14.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T21:24:24.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T21:20:01.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PreviewOrderPage.razor",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Pages\\PreviewOrderPage.razor",
+              "RelativeDocumentMoniker": "Pages\\PreviewOrderPage.razor",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Pages\\PreviewOrderPage.razor",
+              "RelativeToolTip": "Pages\\PreviewOrderPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T21:12:11.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PurchaseOrderPage.razor",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Pages\\PurchaseOrderPage.razor",
+              "RelativeDocumentMoniker": "Pages\\PurchaseOrderPage.razor",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Pages\\PurchaseOrderPage.razor",
+              "RelativeToolTip": "Pages\\PurchaseOrderPage.razor",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAqwKkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T21:15:05.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T21:24:23.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T21:24:55.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Data\\ITaxService.cs",
+              "RelativeDocumentMoniker": "Data\\ITaxService.cs",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Data\\ITaxService.cs",
+              "RelativeToolTip": "Data\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:29:27.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaxPage.razor",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Pages\\TaxPage.razor",
+              "RelativeDocumentMoniker": "Pages\\TaxPage.razor",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Pages\\TaxPage.razor",
+              "RelativeToolTip": "Pages\\TaxPage.razor",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAmwGoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T16:39:12.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:26:11.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConfirmPage.razor",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Shared\\ConfirmPage.razor",
+              "RelativeDocumentMoniker": "Shared\\ConfirmPage.razor",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Shared\\ConfirmPage.razor",
+              "RelativeToolTip": "Shared\\ConfirmPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T21:22:56.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WarningPage.razor",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Shared\\WarningPage.razor",
+              "RelativeDocumentMoniker": "Shared\\WarningPage.razor",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Shared\\WarningPage.razor",
+              "RelativeToolTip": "Shared\\WarningPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T21:21:20.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SupplierPage.razor",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Pages\\SupplierPage.razor",
+              "RelativeDocumentMoniker": "Pages\\SupplierPage.razor",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Pages\\SupplierPage.razor",
+              "RelativeToolTip": "Pages\\SupplierPage.razor",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T21:16:32.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductPage.razor",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Pages\\ProductPage.razor",
+              "RelativeDocumentMoniker": "Pages\\ProductPage.razor",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Pages\\ProductPage.razor",
+              "RelativeToolTip": "Pages\\ProductPage.razor",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T21:14:18.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SqlConnectionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Data\\SqlConnectionConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\SqlConnectionConfiguration.cs",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Data\\SqlConnectionConfiguration.cs",
+              "RelativeToolTip": "Data\\SqlConnectionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:05:20.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "POLineService.cs",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Data\\POLineService.cs",
+              "RelativeDocumentMoniker": "Data\\POLineService.cs",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Data\\POLineService.cs",
+              "RelativeToolTip": "Data\\POLineService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:09:15.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "POHeaderService.cs",
+              "DocumentMoniker": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Data\\POHeaderService.cs",
+              "RelativeDocumentMoniker": "Data\\POHeaderService.cs",
+              "ToolTip": "C:\\Users\\Evelyn_Balcarcel\\Desktop\\BlazorPurchaseOrders\\Data\\POHeaderService.cs",
+              "RelativeToolTip": "Data\\POHeaderService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:04:21.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
